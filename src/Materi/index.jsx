@@ -1,6 +1,6 @@
 import React from "react";
-import ClassComponent from "./pembahasan/ClassComponent";
-import FunctionalComponent from "./pembahasan/FunctionalComponent";
+import ClassComponent from "./Komponen/ClassComponent";
+import FunctionalComponent from "./Komponen/FunctionalComponent";
 
 export default class Komponen extends React.Component {
 
