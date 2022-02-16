@@ -1,9 +1,9 @@
-import Komponen from "./Materi";
+import Styling from "./Materi";
 
 function App() {
   return (
     <div className="App">
-      <Komponen />
+      <Styling />
     </div>
     );
 }

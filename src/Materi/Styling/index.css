@@ -1,0 +1,10 @@
+.Navbar {
+	background-color: rgb(164 212 160);
+	border-radius: 5px;
+}
+
+.jumbotron {
+	padding-top: 4rem;
+	background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(164, 212, 160) 80%);
+	
+}
