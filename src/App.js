@@ -1,9 +1,13 @@
-import Styling from "./Materi";
+import logo from './logo.svg';
+import './App.css';
+import Form from "./Materi/Form";
 
 function App() {
   return (
     <div className="App">
-      <Styling />
+      <header className="App-header">
+        <Form />
+      </header>
     </div>
     );
 }
