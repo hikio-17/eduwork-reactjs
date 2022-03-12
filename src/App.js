@@ -1,14 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Form from "./Materi/Form";
+import React from 'react';
+import Main from './Materi/Lifecycle/Main'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Form />
-      </header>
-    </div>
+      <div>
+        <Main />
+      </div>
     );
 }
 
