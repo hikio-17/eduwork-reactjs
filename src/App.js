@@ -1,10 +1,10 @@
 import React from 'react';
-import Main from './Materi/Lifecycle/Main'
+import Redux from './Materi/Redux/index'
 
 function App() {
   return (
       <div>
-        <Main />
+        <Redux />
       </div>
     );
 }
